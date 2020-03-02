@@ -1,4 +1,4 @@
-# build-tool
+# Build Tool
 Build Tool to clone/pull/run from a specific repo
 
 # Instructions
@@ -24,3 +24,6 @@ To run the project for the first time you can run as
 ## Running for a new branch
 To run in order to checkout for a new branch, pull from the remote repository and run maven with tests
 `bash build-tool.sh -p -b release/1.0.0 -t`
+
+# Note
+Note the git repo default is the current one. Please update on the sh ou make it dynamic
