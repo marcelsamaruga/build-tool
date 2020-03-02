@@ -1,5 +1,4 @@
 #!/bin/bash
-# tool to manage MC-Claim projects
 
 clear
 
